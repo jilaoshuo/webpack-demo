@@ -1,0 +1,14 @@
+#index{
+    color: #fff;
+    background-color: red;  
+}
+.photo{
+    width:190px;
+    height:190px;
+    background:url('../images/news02.jpg') no-repeat center center;
+}
+
+
+.logoksj{
+    box-shadow:0 0 0 #ddd;
+}
