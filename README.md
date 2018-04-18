@@ -9,3 +9,7 @@
 2.   npm init (初始化)
 
 3.   npm install 或 cnpm install (如果你用淘宝的镜像的话)
+
+4.   npm run build (生产环境使用这个)
+
+5.   npm run start (开发环境使用这个)
